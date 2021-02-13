@@ -1,0 +1,4 @@
+- Hey I’m @Brochu, a game programmer that enjoys any programming with visual feedback in general
+- I'm always interested in learning new things, games and math
+- I'm currently learning how I can use Unreal Engine in the best way and graphics programming
+- If you would like to reach me, my email is alexbrochu1@gmail.com
