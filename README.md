@@ -27,28 +27,27 @@
 
 ### Software and Technology I Use
 
-<img align="left" alt="Vim" width="26px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-color-tal-revivo.png" />
-<img align="left" alt="Visual Studio" width="26px" src="https://img.icons8.com/color/452/visual-studio.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/452/visual-studio-code-2019.png" />
-
-<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/452/c-programming.png" />
-<img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/452/c-plus-plus-logo.png" />
-<img align="left" alt="C#" width="26px" src="https://img.icons8.com/color/452/c-sharp-logo.png" />
-
-<img align="left" alt="Golang" width="26px" src="https://img.icons8.com/color/344/golang.png" />
-<img align="left" alt="Ruby" width="26px" src="https://img.icons8.com/color/344/ruby-programming-language.png" />
-<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/344/python--v1.png" />
-
-<img align="left" alt="CMake" width="26px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-cmake-a-cross-platform-free-and-open-source-software-tool-logo-color-tal-revivo.png" />
-<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/344/git.png" />
-<img align="left" alt="Jenkins" width="26px" src="https://img.icons8.com/color/344/jenkins.png" />
-
 <img align="left" alt="Windows" width="26px" src="https://img.icons8.com/fluency/344/windows-10.png" />
 <img align="left" alt="Linux" width="26px" src="https://img.icons8.com/color/344/linux--v1.png" />
 <img align="left" alt="MacOS" width="26px" src="https://img.icons8.com/office/344/mac-client.png" />
-
+|
+<img align="left" alt="Vim" width="26px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-color-tal-revivo.png" />
+<img align="left" alt="Visual Studio" width="26px" src="https://img.icons8.com/color/452/visual-studio.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/452/visual-studio-code-2019.png" />
+|
+<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/452/c-programming.png" />
+<img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/452/c-plus-plus-logo.png" />
+<img align="left" alt="C#" width="26px" src="https://img.icons8.com/color/452/c-sharp-logo.png" />
+<img align="left" alt="Golang" width="26px" src="https://img.icons8.com/color/344/golang.png" />
+<img align="left" alt="Ruby" width="26px" src="https://img.icons8.com/color/344/ruby-programming-language.png" />
+<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/344/python--v1.png" />
+|
 <img align="left" alt="Unity3D" width="26px" src="https://img.icons8.com/color/344/unity.png" />
 <img align="left" alt="Unreal Engine" width="26px" src="https://img.icons8.com/ios-filled/344/unreal-engine.png" />
+|
+<img align="left" alt="CMake" width="26px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-cmake-a-cross-platform-free-and-open-source-software-tool-logo-color-tal-revivo.png" />
+<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/344/git.png" />
+<img align="left" alt="Jenkins" width="26px" src="https://img.icons8.com/color/344/jenkins.png" />
 
 <br />
 
