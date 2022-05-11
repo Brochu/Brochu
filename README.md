@@ -5,6 +5,7 @@
 - 🎮 I am currently working at Behaviour Interactive as a graphics programmer
 - 📷 I am learning to use low-level graphics API better
     - DirectX 11
+    - DirectX 12
     - Vulkan
 - 🛠️ I have experience working with popular game developement middlewares
     - Unity 3D
