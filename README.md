@@ -33,6 +33,7 @@
 <img align="left" alt="MacOS" width="26px" src="https://img.icons8.com/office/344/mac-client.png" />
 
 <img align="left" alt="Vim" width="26px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-color-tal-revivo.png" />
+<img align="left" alt="Jetbrains Rider" width="26px" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" />
 <img align="left" alt="Visual Studio" width="26px" src="https://img.icons8.com/color/452/visual-studio.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/452/visual-studio-code-2019.png" />
 
