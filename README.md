@@ -2,7 +2,8 @@
 
 # I am a Passionate Game and Graphics Programmer
 - 🎓 I enjoy learning new technology and techniques
-- 🎮 I am currently working at Behaviour Interactive as a graphics programmer
+- 🖥 I am currently working at AMD as a Sr. Software Development Engineer
+- 🎮 I used to work at Behaviour Interactive as a graphics programmer
 - 📷 I am learning to use low-level graphics API better
     - DirectX 11
     - DirectX 12
