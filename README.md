@@ -1,6 +1,6 @@
 ### Hey, I am Alexandre and welcome to my Github page.
 
-# I am a Passionate Game and Graphics Programmer
+# I am a Passionate Graphics and Game Programmer
 - 🎓 I enjoy learning new technology and techniques
 - 🖥 I am currently working at AMD as a Sr. Software Development Engineer
 - 🎮 I used to work at Behaviour Interactive as a graphics programmer
