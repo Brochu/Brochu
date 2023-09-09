@@ -13,7 +13,6 @@
     - Unreal Engine 4
     - Unreal Engine 5
 - 🎥 I really enjoy working on projects with real-time visual feedback in general
-- ⚽ I have reached champion rank in Rocket League
 - 🏉 I used to play Rugby in high school
 
 --- 
