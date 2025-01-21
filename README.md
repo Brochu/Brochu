@@ -42,15 +42,12 @@
 <img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/452/c-plus-plus-logo.png" />
 <img align="left" alt="Rust" width="26px" src="https://www.rust-lang.org/logos/rust-logo-64x64-blk.png" />
 <img align="left" alt="C#" width="26px" src="https://img.icons8.com/color/452/c-sharp-logo.png" />
-<img align="left" alt="Golang" width="26px" src="https://img.icons8.com/color/344/golang.png" />
-<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/344/python--v1.png" />
 
 <img align="left" alt="Unity3D" width="26px" src="https://img.icons8.com/color/344/unity.png" />
 <img align="left" alt="Unreal Engine" width="26px" src="https://img.icons8.com/ios-filled/344/unreal-engine.png" />
 
 <img align="left" alt="CMake" width="26px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-cmake-a-cross-platform-free-and-open-source-software-tool-logo-color-tal-revivo.png" />
 <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/344/git.png" />
-<img align="left" alt="Jenkins" width="26px" src="https://img.icons8.com/color/344/jenkins.png" />
 
 <br />
 
