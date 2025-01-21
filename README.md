@@ -55,11 +55,6 @@
 <br />
 
 ---
-
-### My Github Stats
-
-<img align="left" alt="Brochu Github Stats" src="https://github-readme-stats.vercel.app/api?username=brochu&show_icons=true&hide=contribs,prs&count_private=true&theme=github_dark" />
-
 <img align="left" alt="Brochu Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brochu&layout=compact&theme=github_dark&hide=html" />
 
 [website]: https://brochu.github.io
