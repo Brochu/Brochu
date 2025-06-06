@@ -19,50 +19,49 @@
 
 ### My Socials
 
-[<img align="left" alt="brochu.github.io/portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
+[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://brochu.github.io/portfolio)
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://x.com/AlexandreBrochu)
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/alexandrebrochu/)
+&#x200B;  
 
 ---
 
 ### Software and Technology I Use
 
-<p>OS:</p>
-<div>
+#### OS
+
 <img align="left" alt="Windows" width="26px" src="https://img.icons8.com/fluency/344/windows-10.png" />
 <img align="left" alt="Linux" width="26px" src="https://img.icons8.com/color/344/linux--v1.png" />
 <img align="left" alt="MacOS" width="26px" src="https://img.icons8.com/office/344/mac-client.png" />
-</div>
+&#x200B;  
 
-<p>Editors:</p>
-<div>
+#### Editors
+
 <img align="left" alt="Vim" width="26px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-color-tal-revivo.png" />
 <img align="left" alt="Jetbrains Rider" width="26px" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" />
 <img align="left" alt="Visual Studio" width="26px" src="https://img.icons8.com/color/452/visual-studio.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/452/visual-studio-code-2019.png" />
-</div>
+&#x200B;
 
-<p>Languages:</p>
-<div>
+#### Languages
+
 <img align="left" alt="C" width="26px" src="https://img.icons8.com/color/452/c-programming.png" />
 <img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/452/c-plus-plus-logo.png" />
 <img align="left" alt="Rust" width="26px" src="https://www.rust-lang.org/logos/rust-logo-64x64-blk.png" />
 <img align="left" alt="C#" width="26px" src="https://img.icons8.com/color/452/c-sharp-logo.png" />
-</div>
+&#x200B;
 
-<p>Middlewares:</p>
-<div>
+#### Middlewares
+
 <img align="left" alt="Unity3D" width="26px" src="https://img.icons8.com/color/344/unity.png" />
 <img align="left" alt="Unreal Engine" width="26px" src="https://img.icons8.com/ios-filled/344/unreal-engine.png" />
-</div>
+&#x200B;
 
-<p>Tooling:</p>
-<div>
+#### Tooling
+
 <img align="left" alt="CMake" width="26px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-cmake-a-cross-platform-free-and-open-source-software-tool-logo-color-tal-revivo.png" />
 <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/344/git.png" />
-</div>
+&#x200B;
 
 ---
 <img align="left" alt="Brochu Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brochu&layout=compact&theme=github_dark&hide=html" />
